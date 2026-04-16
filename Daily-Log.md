@@ -1,9 +1,53 @@
-# Daily Log
+10 days ago, I decided to stop overthinking and finally start my GATE preparation seriously.
 
-## Day 1
-- Subject: C Programing
-- Lectures: 
-- Coding:
-- English:
+I picked C Programming as my first subject and gave myself a challenge — complete it in 10 days with consistency and daily practice.
 
-Streak: 1 🔥
+Here’s how those 10 days actually went:
+
+Day 0:
+I was confused. Too many resources, no clear plan. But I made one decision — stop thinking, start doing.
+
+Day 1:
+Started with basics — syntax, structure, and writing my first simple programs. It felt basic, but important.
+
+Day 2:
+Learned data types, variables, and input/output. Started understanding how programs actually handle data.
+
+Day 3:
+Operators and expressions. This is where logic building slowly started.
+
+Day 4:
+Conditional statements (if-else, switch). Finally felt like I could control the flow of a program.
+
+Day 5:
+Loops (for, while, do-while). Practiced multiple questions — repetition helped build confidence.
+
+Day 6:
+Functions. Understood how to break problems into smaller parts.
+
+Day 7:
+Arrays. Solved basic problems and started practicing previous year questions (PYQs).
+
+Day 8:
+Pointers — honestly, the toughest day. Took more time, got confused, revised again. Not perfect, but didn’t quit.
+
+Day 9:
+Structures and memory concepts. Things started connecting together.
+
+Day 10:
+Full revision + PYQs + DPP. Realized that practice matters more than just watching lectures.
+
+In these 10 days, I didn’t become an expert.
+But I built something more important — consistency and clarity.
+
+Now I’ve started Data Structures, along with daily PYQs of c programing and DPP practice to strengthen problem-solving.
+
+This is just the beginning of my GATE journey.
+
+I’ll keep sharing my progress — including mistakes and learnings.
+
+If you’re also preparing, let’s connect and grow together.
+
+#GATE #CProgramming #DSA #Consistency #SelfImprovement
+
+Streak: 10 🔥
